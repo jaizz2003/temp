@@ -13,8 +13,8 @@ int main(int argc, char* argv[]) {
 	}
 
 	int input = atoi(argv[1]);
-	printf("Sqrt of %d is %f\n",input,sqrt(input));
-	printf("End of Program!! Exiting!!!\n");
+	printf("Sqrt of %d is %f\n",input,sqrt(input)); // printing square root
+	printf("End of Program!! Exiting!!!\n");  //printf statement saying the code is completed
 	return(0);
 
 } // end main
