@@ -4,7 +4,7 @@ positive number. */
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
-
+//main function
 int main(int argc, char* argv[]) {
 	
 	if (argc != 2) {
